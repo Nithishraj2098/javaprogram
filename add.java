@@ -9,6 +9,6 @@ System.out.println("Enter the value");
 a=sc.nextInt();
 b=sc.nextInt();
 int c=a+b;
-System.out.println("a is"+a+"b is"+b+"total"+c);
+System.out.println("A is"+a+"b is"+b+"total"+c);
 }
 }
